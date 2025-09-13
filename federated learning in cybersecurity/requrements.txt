@@ -1,0 +1,7 @@
+Requirements are as below: 
+Python Language based tool with some libraries which made the code script shorter and effective. 
+1. JobLib   library
+ 2. os Library
+ 3. math Library
+ 4. from collection Library of python: counter module
+ 5. Path identifier statements
